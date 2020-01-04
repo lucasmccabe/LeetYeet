@@ -8,7 +8,7 @@ A place for me to put solutions to various coding challenge problems.
 
 
 ### HackerRank
-* [Warm-up Challenges](https://github.com/lucasmccabe/LeetYeet/HackerRank/Warm-up Challenges)
+* [Warm-up Challenges](https://github.com/lucasmccabe/LeetYeet/HackerRank/Warm-up Challenges/)
 
 
 
